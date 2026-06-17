@@ -2,6 +2,8 @@
 
 Wer lieber im Terminal arbeitet, nutzt Claude Code direkt im Vault-Ordner. Claude Code liest und schreibt die Dateien dann ohne Umweg über einen MCP-Server.
 
+> Dieselbe Technik steckt im **Code-Tab von Claude Desktop**. Wer keine Lust aufs Terminal hat, nimmt den Code-Tab in der Desktop-App (siehe `SETUP-Desktop.md`, Weg A) und folgt sinngemäß denselben Schritten.
+
 ## Voraussetzungen
 
 1. **Claude Code** installiert: siehe [docs.claude.com/claude-code](https://docs.claude.com/en/docs/claude-code).
