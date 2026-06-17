@@ -1,0 +1,10 @@
+# Per-user Obsidian UI state (not part of the template)
+.obsidian/workspace.json
+.obsidian/workspace*.json
+.obsidian/cache
+.obsidian/graph.json
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
