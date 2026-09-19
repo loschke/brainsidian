@@ -1,11 +1,16 @@
 ---
 type: person
+layer: wiki
 title: "{{title}}"
 description: 
 tags: [person]
 created: {{date}}
+updated: {{date}}
 status: aktiv
-rolle: 
+source: []
+people: ["[[{{title}}]]"]
+project: []
+role: 
 ---
 
 # {{title}}
@@ -22,6 +27,9 @@ Rolle, Kontext, woher ich die Person kenne.
 
 - [ ] 
 
-## Verlauf
+## Letzte Gespräche
 
-- {{date}}: 
+> Höchstens fünf Zeilen. Jede verweist auf die Gesprächsnotiz in `05_MEETINGS/`.
+> Der vollständige Verlauf steht dort, nicht hier.
+
+- {{date}} – [[ ]]

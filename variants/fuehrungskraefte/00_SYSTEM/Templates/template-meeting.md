@@ -1,11 +1,15 @@
 ---
 type: meeting
+layer: wiki
 title: "{{title}}"
 description: 
 tags: [meeting]
 created: {{date}}
+updated: {{date}}
 status: aktiv
-teilnehmer: []
+source: []
+people: []
+project: []
 ---
 
 # {{title}}

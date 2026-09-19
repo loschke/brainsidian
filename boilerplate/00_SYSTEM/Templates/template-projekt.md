@@ -1,10 +1,13 @@
 ---
 type: projekt
+layer: wiki
 title: "{{title}}"
 description: 
 tags: [projekt]
 created: {{date}}
+updated: {{date}}
 status: aktiv
+source: []
 deadline: 
 ---
 

@@ -1,11 +1,14 @@
 ---
 type: ziel
+layer: wiki
 title: "{{title}}"
 description: 
 tags: [ziel]
 created: {{date}}
+updated: {{date}}
 status: aktiv
-horizont: 
+source: []
+horizon: 
 ---
 
 # {{title}}

@@ -1,9 +1,11 @@
 ---
 type: index
+layer: schema
 title: Entscheidungen
 description: Getroffene Entscheidungen mit Optionen, Wahl und Konsequenzen.
 tags: [entscheidungen]
 created: 2026-06-17
+updated: 2026-06-17
 status: aktiv
 ---
 

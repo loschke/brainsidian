@@ -1,9 +1,11 @@
 ---
 type: index
+layer: schema
 title: Menschen
 description: Team, Stakeholder und wichtige Kontakte.
 tags: [menschen]
 created: 2026-06-17
+updated: 2026-06-17
 status: aktiv
 ---
 

@@ -1,11 +1,15 @@
 ---
 type: projekt
+layer: wiki
 title: "Delegation: {{title}}"
 description: 
 tags: [delegation]
 created: {{date}}
+updated: {{date}}
 status: aktiv
-an: 
+source: []
+people: []
+project: []
 deadline: 
 ---
 

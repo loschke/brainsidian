@@ -1,11 +1,13 @@
 ---
 type: notiz
+layer: wiki
 title: "{{title}}"
 description: 
 tags: []
 created: {{date}}
+updated: {{date}}
 status: entwurf
-resource: 
+source: []
 ---
 
 # {{title}}

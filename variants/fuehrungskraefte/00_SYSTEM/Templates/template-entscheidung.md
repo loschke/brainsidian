@@ -1,10 +1,15 @@
 ---
 type: entscheidung
+layer: wiki
 title: "{{title}}"
 description: 
 tags: [entscheidung]
 created: {{date}}
+updated: {{date}}
 status: aktiv
+source: []
+people: []
+project: []
 ---
 
 # {{title}}

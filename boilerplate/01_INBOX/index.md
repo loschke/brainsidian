@@ -1,9 +1,11 @@
 ---
 type: index
+layer: schema
 title: Inbox
 description: Eingang für alles Neue, bis es eingeordnet ist.
 tags: [system, inbox]
 created: {{TODAY}}
+updated: {{TODAY}}
 status: aktiv
 ---
 

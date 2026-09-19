@@ -1,9 +1,11 @@
 ---
 type: system
+layer: schema
 title: Persona-Marker
 description: Legt fest, welche Variante dieser Vault ist. Steuert das Onboarding.
 tags: [system]
 created: 2026-06-17
+updated: 2026-06-17
 status: aktiv
 ---
 

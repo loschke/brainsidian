@@ -1,9 +1,11 @@
 ---
 type: index
+layer: schema
 title: Lernen
 description: Führungsthemen, die du durchdringen willst.
 tags: [lernen]
 created: 2026-06-17
+updated: 2026-06-17
 status: aktiv
 ---
 

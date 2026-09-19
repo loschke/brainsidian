@@ -1,9 +1,11 @@
 ---
 type: log
+layer: schema
 title: Aktivitätslog
 description: Fortlaufendes Protokoll der Eingriffe am Vault.
 tags: [system, log]
 created: {{TODAY}}
+updated: {{TODAY}}
 status: aktiv
 ---
 

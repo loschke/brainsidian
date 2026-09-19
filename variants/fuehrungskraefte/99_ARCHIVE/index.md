@@ -1,9 +1,11 @@
 ---
 type: index
+layer: schema
 title: Archiv
 description: Abgeschlossenes und Veraltetes. Nichts wird gelöscht.
 tags: [archiv]
 created: 2026-06-17
+updated: 2026-06-17
 status: aktiv
 ---
 

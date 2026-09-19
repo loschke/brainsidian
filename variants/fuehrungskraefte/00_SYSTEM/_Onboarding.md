@@ -1,9 +1,11 @@
 ---
 type: system
+layer: schema
 title: Onboarding-Playbook
 description: Einmaliges Interview, das den frischen Vault mit Leben füllt.
 tags: [system, onboarding]
 created: 2026-06-17
+updated: 2026-06-17
 status: aktiv
 ---
 
@@ -79,7 +81,7 @@ Verlinke großzügig: Ein Projekt verweist auf die beteiligten Menschen (`02_PEO
 
 ## Phase 4 – Inhaltskarten aktualisieren
 
-Trage die neuen Notizen in die `index.md` der jeweiligen Ordner ein (je eine Zeile mit Kurzbeschreibung). So entsteht sofort Navigation. Lege bei Bedarf zwei bis drei thematische MOC-Notizen an, wenn sich Cluster zeigen.
+Trage die neuen Notizen in die `index.md` der jeweiligen Ordner ein (je eine Zeile mit Kurzbeschreibung) und lege den globalen Katalog `index.md` im Vault-Root an, eine Zeile pro Notiz im dort beschriebenen Format. So entsteht sofort Navigation. Lege bei Bedarf zwei bis drei thematische MOC-Notizen an, wenn sich Cluster zeigen.
 
 ---
 

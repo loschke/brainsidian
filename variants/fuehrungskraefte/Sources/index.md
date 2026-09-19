@@ -1,9 +1,11 @@
 ---
 type: index
+layer: schema
 title: Quellen
 description: Verzeichnis der Originalquellen. Unveränderlich.
 tags: [system, quellen]
 created: 2026-06-17
+updated: 2026-06-17
 status: aktiv
 ---
 

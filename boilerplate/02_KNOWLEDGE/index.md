@@ -1,9 +1,11 @@
 ---
 type: index
+layer: schema
 title: Wissen
 description: Das Wiki. Dauerhaftes, verlinktes Wissen.
 tags: [wissen]
 created: {{TODAY}}
+updated: {{TODAY}}
 status: aktiv
 ---
 

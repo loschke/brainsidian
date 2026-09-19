@@ -1,9 +1,11 @@
 ---
 type: index
+layer: schema
 title: System
 description: Steuerzentrale des Vaults.
 tags: [system]
 created: {{TODAY}}
+updated: {{TODAY}}
 status: aktiv
 ---
 

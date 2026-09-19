@@ -1,12 +1,16 @@
 ---
 type: quelle
+layer: quelle
 title: "{{title}}"
 description: 
 tags: [quelle]
 created: {{date}}
+updated: {{date}}
 status: aktiv
-resource: 
-autor: 
+source: []
+people: []
+project: []
+author: 
 ---
 
 # {{title}}

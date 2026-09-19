@@ -1,9 +1,11 @@
 ---
 type: index
+layer: schema
 title: Projekte
 description: Aktive Vorhaben mit Ziel und Ende.
 tags: [projekte]
 created: {{TODAY}}
+updated: {{TODAY}}
 status: aktiv
 ---
 

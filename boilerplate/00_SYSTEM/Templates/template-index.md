@@ -1,9 +1,11 @@
 ---
 type: index
+layer: schema
 title: "{{title}}"
 description: 
 tags: [index]
 created: {{date}}
+updated: {{date}}
 status: aktiv
 ---
 

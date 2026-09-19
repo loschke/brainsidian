@@ -1,9 +1,11 @@
 ---
 type: index
+layer: schema
 title: Struktur-Guide
 description: Wie dieser Vault aufgebaut ist und warum.
 tags: [system, struktur]
 created: 2026-06-17
+updated: 2026-06-17
 status: aktiv
 ---
 
@@ -37,9 +39,15 @@ Jeder Ordner hat eine `index.md`. Sie ist die Landkarte des Ordners: die wichtig
 
 Im Frontmatter steuert `status` den Lebenszyklus einer Notiz:
 
-`entwurf` → `aktiv` → `ruht` / `erledigt` → `archiviert`
+`entwurf` → `aktiv` → `ruht` / `erledigt` / `veraltet` → `archiviert`
 
-Archiviertes wandert nach `99_ARCHIVE/`, wird aber nicht gelöscht.
+`veraltet` heißt: die Notiz stand mal richtig da, gilt aber nicht mehr. Sie bleibt liegen,
+damit nachvollziehbar bleibt, was man mal dachte. Archiviertes wandert nach `99_ARCHIVE/`,
+wird aber nicht gelöscht.
+
+Zwei Felder daneben tragen den Lebenszyklus mit: `updated` sagt, wann der Inhalt zuletzt
+geprüft wurde, `source` sagt, woraus er stammt. Ohne beides kann `lint` Überholtes nicht
+von Gültigem trennen.
 
 ## Erweitern
 

@@ -1,9 +1,11 @@
 ---
-type: notiz
+type: system
+layer: schema
 title: Start hier
 description: Erste Schritte in diesem Vault.
 tags: [system]
 created: {{TODAY}}
+updated: {{TODAY}}
 status: aktiv
 ---
 

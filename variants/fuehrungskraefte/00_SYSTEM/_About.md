@@ -1,9 +1,11 @@
 ---
 type: profil
+layer: wiki
 title: Über mich
 description: Wer diesen Vault nutzt. Wird beim Onboarding gefüllt.
 tags: [system, profil]
 created: 2026-06-17
+updated: 2026-06-17
 status: entwurf
 ---
 

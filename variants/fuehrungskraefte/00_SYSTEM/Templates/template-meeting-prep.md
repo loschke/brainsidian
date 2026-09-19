@@ -1,11 +1,15 @@
 ---
 type: meeting
+layer: wiki
 title: "Prep: {{title}}"
 description: 
 tags: [meeting, vorbereitung]
 created: {{date}}
+updated: {{date}}
 status: aktiv
-teilnehmer: []
+source: []
+people: []
+project: []
 ---
 
 # Vorbereitung: {{title}}

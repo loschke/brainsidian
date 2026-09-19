@@ -1,9 +1,11 @@
 ---
 type: index
+layer: schema
 title: Strategie
 description: Ziele, OKR und längerfristige Linien.
 tags: [strategie]
 created: 2026-06-17
+updated: 2026-06-17
 status: aktiv
 ---
 
